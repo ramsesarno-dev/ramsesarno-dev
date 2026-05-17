@@ -64,9 +64,10 @@ Currently focused on strengthening my backend development skills through real-wo
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramsesarno-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesarno-dev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramsesarno-dev&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesarno-dev&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
