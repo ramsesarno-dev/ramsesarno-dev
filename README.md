@@ -1,4 +1,4 @@
-# Ramsés Arno
+# Ramsés Arnó
 
 Backend Developer specialized in .NET technologies, focused on building scalable backend solutions, REST APIs and administrative systems using C#, ASP.NET Core and SQL Server.
 
